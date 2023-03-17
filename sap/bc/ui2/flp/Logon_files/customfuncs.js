@@ -32,7 +32,5 @@ function storeUsername(ip)
     xhttp.send()
 }
 
-function partyProtocol()
-{
 
-}
+//TODO: Implement protocol party
